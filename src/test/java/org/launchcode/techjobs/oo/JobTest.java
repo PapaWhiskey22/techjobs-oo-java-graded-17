@@ -67,8 +67,4 @@ public class JobTest {
         // Assert that the string contains the label for the empty field, followed by "Data not available".
         assertTrue(toString.contains("Name: Data not available"));
     }
-
-
-
-
 }
